@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Bo'ness Motor Museum | About</title>
+	<link rel="icon" href="Images/favicon.ico" type="image/x-icon">
+	<link href="Styles/style.css" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="williams">
+          <h1><span class="highlight">Bo'ness</span> Motor Museum</h1>
+        </div>
+        <nav>
+				<ul>
+				<li><a href="home.html">Home</a></li>
+				<li><a href="about.html">About</a></li>
+				<li><a href="contact.html">Contact</a></li>
+				<li><a href="find.html">Find Us</a></li>
+				<li><a href="car.html">Car Clubs</a></li>
+				<li><a href="tickets.html">Admission</a></li>
+				</ul>
+        </nav>
+    </header>
+	<body>
+	<div class="dark">
+	<h2>Directions</h2>
+	</div>
+		<p><b>Bo'ness is located approximately 15 miles from Edinburgh and 30 miles from Glasgow and is easily accessible<br> from north 
+	of the River Forth by either the Forth Bridge or Kincardine Bridge following directions for the M9 motorway.</b></p>
+	<img src="Images/front.jpg">
+	 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2230.11530247617!2d-3.5844211483597284!3d56.01667567898149!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887d702c5d0e59f%3A0x3fcd2da88ea5fe9d!2sBridgeness+Rd%2C+Bo&#39;ness+EH51+9NZ%2C+UK!5e0!3m2!1sen!2sus!4v1533405760531" width="2000" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+  </body>
+  <footer>
+      <p>Copyright BMM &copy;2004-207 Bo'ness Motor Museum</p>
+    </footer>
+</html>
