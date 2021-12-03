@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Bo'ness Car Museum | About</title>
+	<link rel="icon" href="Images/favicon.ico" type="image/x-icon">
+	<link href="Styles/style.css" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div id="williams">
+          <h1><span class="highlight">Bo'ness</span> Motor Museum</h1>
+        </div>
+        <nav>
+				<ul>
+				<li><a href="home.html">Home</a></li>
+				<li><a href="about.html">About</a></li>
+				<li><a href="contact.html">Contact</a></li>
+				<li><a href="find.html">Find Us</a></li>
+				<li><a href="car.html">Car Clubs</a></li>
+				<li><a href="tickets.html">Admission</a></li>
+				</ul>
+        </nav>
+    </header>
+
+    <section id="main">
+      <div class="container">
+        <article id="main-col">
+		<div class="dark">
+          <h2>Our Story</h2>
+		  </div>
+ <p><br>Colin asked his friend, Peter Nelson, of 'Cars of the Stars Museum' in the Lake District if he would be interested in opening a second museum in Bo'ness
+After consideration Peter decided that Colin's property in Bo'ness was not quite what he was looking for.
+Colin Anderson decided to go it alone and display his own cars and James Bond (007) memorabilia from his considerable and growing collection.
+		  </p>
+		  <br>
+		  <iframe width="700" height="400" src="https://www.youtube.com/embed/G6JmzZA8qMI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		  <h2>Holidays</h2>
+		  <p>Closed Christmas Day and New Year's Day</p>
+		  <div class="dark">
+		  <h2>Hours</h2>
+		  </div>
+        </article>
+        <aside id="sidebar">
+          <div class="dark">
+            <h1>How We Started</h1>
+            <p>Officaly opening in Easter 2004 by Caroline Munro and Shane Rimmer, two stars of a James Bond 
+film!, "The Spy Who Loved Me."<br><br><b>We are Certicifed by the Scottish board of Attractions!</b></p>
+          </div>
+		  <br>
+		  <br>
+		  <br>
+		  <img src="Images/opening.jpg">
+		  <br>
+		  <br>
+		  <br>
+		  <br>
+		  <img src="Images/logo3.jpg">
+        </aside>
+      </div>
+    </section>
+	  <table border="1">
+<tr>
+<th>Days Open</th>
+<th>Opens</th>
+<th>Closes</th>
+</tr>
+<tr>
+<td>Monday-Saturday</td>
+<td>10 A.M</td>
+<td>4 P.M</td>
+</tr>
+<tr>
+<td>Sunday</td>
+<td>11 A.M</td>
+<td>4 P.M</td>
+</tr>
+<tr>
+<td>Miss MoneyPenny's Diner</td>
+<td>11:30 A.M</td>
+<td>4:30 P.M</td>
+</tr>
+</table>
+</div>
+    <footer>
+      <p>Copyright BMM &copy;2004-2007 Bo'ness Motor Museum</p>
+    </footer>
+  </body>
+</html>
